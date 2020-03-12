@@ -18,6 +18,7 @@ Make sure you are signed in to our web [dashboard](http://dashboard.fairorder.io
 ### Step 3: Initialize the SDK 
 Then instantiate the sdk object with the app credentials.
 ```javascript
+    const FairOrderSDK = require('fairorder-js-sdk');
     const fairOrder = new FairOrderSDK();
 ```
 Call the init function to initialize the SDK
