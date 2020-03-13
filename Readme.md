@@ -12,7 +12,7 @@ $ npm i --save fairorder-js-sdk
 ### Step 2: Setup developer API credentials
 Make sure you are signed in to our web [dashboard](http://dashboard.fairorder.io). You need to create your app using our dashboard which will generate appId and secretId of the respective app. These credentials are important for initializing our sdk. The example for the same is given below.
 
-![](https://fair-order.s3.ap-south-1.amazonaws.com/fo_setup_key.png)
+![](https://fair-order.s3.ap-south-1.amazonaws.com/fo_setup.png)
 
 
 ### Step 3: Initialize the SDK 
